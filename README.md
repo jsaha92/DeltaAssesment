@@ -1,3 +1,5 @@
+All code files located in DeltaSubmission Subfolder of this repository
+
 Please Read DeltaSubmissionDocumentation.docx for detailed insight as to how the code was created.
 
 Please refer to DeltaAssessment.ipynotebook to refer to my testing process via Google Colab, as was mentioned in the .docx file
