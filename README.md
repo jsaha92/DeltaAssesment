@@ -1,2 +1,2 @@
 # DeltaAssessment
-Code for Delta Assessment using publicly available dataset. ReadMe contains all instructions for use
+Code for Delta Assessment using dataset provided. ReadMe contains all instructions for use
