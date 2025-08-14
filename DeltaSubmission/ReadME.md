@@ -1,5 +1,8 @@
 Please Read DeltaSubmissionDocumentation.docx for detailed insight as to how the code was created.
+
 Please refer to DeltaAssessment.ipynotebook to refer to my testing process via Google Colab, as was mentioned in the .docx file
+
+The assumed technologies for the customer using the scripts are having a UNIX terminal, Python, and SQL Database functionality
 
 Code Files contained:
 
